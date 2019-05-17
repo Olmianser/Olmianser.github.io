@@ -1,0 +1,30 @@
+#header{
+    margin-bottom: 32px;
+    text-align: center;
+}
+#footer{
+    margin-top: 64px;
+    text-align: center;
+}
+h1{
+    font-size: 36px;
+    weight: 400;
+    margin-bottom: 0;
+}
+h2{
+    font-size: 32px;
+    weight: 400;
+    margin-bottom: 8px;
+    border-bottom: 1px solid grey;
+}
+h3{
+    font-size: 20px;
+    weight: 400;
+    margin-bottom: 0;
+}
+p{
+    margin-bottom: 12px;
+}
+.italic{
+    font-style: italic;
+}
